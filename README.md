@@ -18,10 +18,10 @@ Primeiro preciso subir os arquivos deste repositório para sua máquina ou a má
 Crie a pasta do projeto airflow na sua máquina, execute no bash:
 
 ```bash
-mkdir airflow && cd airflow/
+mkdir projeto_airflow && cd projeto_airflow/
 ```
 
-Agora, considerando que você tenha o git instalado em sua maquina, execute o seguinte comando:
+Agora, considerando que você tenha o git instalado em sua máquina, execute o seguinte comando:
 
 ```bash
 git clone https://github.com/Rafasansouza/airflow3.0-server-docker
