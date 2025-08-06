@@ -24,7 +24,7 @@ mkdir projeto_airflow && cd projeto_airflow/
 Agora, considerando que você tenha o git instalado em sua máquina, execute o seguinte comando:
 
 ```bash
-git clone https://github.com/Rafasansouza/airflow3.0-server-docker
+git clone https://github.com/Rafasansouza/airflow3.0-server-docker.git
 ```
 
 Assim, terá os arquivos necessarios do projeto.
